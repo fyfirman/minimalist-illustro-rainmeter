@@ -30,7 +30,7 @@
   <h3 align="center">MINIMALIST ILLUSTRO</h3>
     
   <p align="center">
-    Custom illustro raimeter skin with minimalist design
+    Custom illustro rainmeter skin with minimalist style
     <br />
     <br />
     <br />
