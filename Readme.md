@@ -67,25 +67,28 @@
 ## About The Project
 
 ### Network
+
 <img src="images/network.gif" alt="network" width="700">
 
-### Network
+### System
+
 <img src="images/system.gif" alt="system" width="700">
 
 <!-- GETTING STARTED -->
 
 ## Getting Started
 
-
 ### Prerequisites
 
 - Rainmeter (download [here](https://www.rainmeter.net/))
 
 ### Installation & Usage
+
 <!-- TODO: Update release page -->
-1. Download rmskin pack from (realease page)[https://github.com]
+
+1. Download rmskin pack from [realease page](https://github.com)
 2. Open and install rmskin pack
-3. Load skin everything you want 
+3. Load skin everything you want
 
 <!-- CONTRIBUTING -->
 
